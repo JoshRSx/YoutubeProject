@@ -22,7 +22,9 @@ Youtube es una red social que permite alojar y compartir videos que han sido cre
 
 ![image](https://user-images.githubusercontent.com/87036389/137568951-bab73b64-a36f-4fc5-b6d7-ec3b647498a2.png)
 
-4.
+4.**Registro de cuenta**
+
+
 ![image](https://user-images.githubusercontent.com/87036389/137563523-5f070504-6990-4b66-ab68-0e3dbf158be3.png)
 
 5.**Personalizar canal**
