@@ -27,7 +27,9 @@ Youtube es una red social que permite alojar y compartir videos que han sido cre
 
 
 ![image](https://user-images.githubusercontent.com/73302850/137429441-abfd8812-7b09-42a2-a3dd-f1c9c13d176c.png)
+
 ![image](https://user-images.githubusercontent.com/73302850/137570128-285f3a96-5b1a-4321-b561-69e9b85db06c.png)
+
 ![image](https://user-images.githubusercontent.com/73302850/137570153-8e2c8405-07a6-4395-9d1d-420f1c357e2d.png)
 
 
@@ -35,7 +37,9 @@ Youtube es una red social que permite alojar y compartir videos que han sido cre
 
 
 ![image](https://user-images.githubusercontent.com/73302850/137429938-8efa5336-5c1f-4121-94ae-158fe6f2fd57.png)
+
 ![image](https://user-images.githubusercontent.com/73302850/137570164-d6c9a8cc-aabf-4ed4-a8fe-0162765beaf9.png)
+
 ![image](https://user-images.githubusercontent.com/73302850/137570170-a9fd23b9-9008-4263-83ff-a5174ac02a7e.png)
 
 
