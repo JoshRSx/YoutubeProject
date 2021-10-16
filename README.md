@@ -1,5 +1,4 @@
 **Youtube**
-![image](https://user-images.githubusercontent.com/82129353/137569870-08e61e42-2629-4026-ae03-1f72bf866fd2.png)
 
 Youtube es una red social que permite alojar y compartir videos que han sido creados por los usuarios. A diferencia de otros sitios web similares, Youtube tiene un amplio número de participantes y una cantidad muy extensa de información y visitas diarias.
 
