@@ -21,3 +21,12 @@ Youtube es una red social que permite alojar y compartir videos que han sido cre
 
 4.
 ![image](https://user-images.githubusercontent.com/87036389/137563523-5f070504-6990-4b66-ab68-0e3dbf158be3.png)
+
+7. Transimisión en directo
+
+https://user-images.githubusercontent.com/82129353/137011334-b02bc839-4c75-4906-b635-86261a3bf999.png
+
+8. Búsqueda
+
+https://user-images.githubusercontent.com/82129353/136707946-4ce4c546-dcfc-4382-93d2-8b4b87477b86.png
+
